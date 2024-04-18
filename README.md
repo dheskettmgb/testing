@@ -1,2 +1,9 @@
-# testing
-A basic test repo
+# A simple test README
+
+Words go here.
+
+Today is Thursday
+
+And it is April.
+
+
